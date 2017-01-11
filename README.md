@@ -1,2 +1,5 @@
 <!--Creat by CuiKe 2017-01-11-->
 Today, I began to learn React.
+
+Git is a distributed version control system.
+Git is free software.
